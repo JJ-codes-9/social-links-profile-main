@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](solution-images/desktop-screenshot.png)
+![Desktop Screenshot](https://www.frontendmentor.io/solutions/social-links-profile-challenge-using-html-and-css-zJvW6II9BA)
 ![Small screen Screenshot](solution-images/small.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Live Page](https://jj-codes-9.github.io/social-links-profile-main/)
 
 ## My process
 
