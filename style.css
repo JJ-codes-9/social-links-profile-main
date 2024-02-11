@@ -54,6 +54,7 @@ button {
 button:hover {
 	background-color: green;
 	color: black;
+	cursor: pointer;
 }
 
 img {
